@@ -1,0 +1,3 @@
+- Import statements are not needed for classes and interfaces in ```java.lang``` package
+- Import statements are also not needed for default package (current working directory)
+- Whenever we import a package in java, all the classes and interfaces inside it are available by default, but not the ones inside the sub package. If we need to use classes from a sub package, we need to write import until that level
