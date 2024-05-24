@@ -1,0 +1,6 @@
+- A Java source file can contain any number of classes
+- However, the source file can contain at max 1 public class. If there are more than 1 public classes, the compiler will give left and right :) (We will get compile time error)
+- If there is no public class, then we can give any name to the source file
+- If there is a public class, compulsorily the source file should be named as same name of the public class
+- For every class present inside a source file, a separate class file will be generated. Whichever class is run afterwards, shall run its main method
+- Whenever executing a class that doesn't have a main method, we will get an error

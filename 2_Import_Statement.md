@@ -1,0 +1,3 @@
+- Import statement acts as a shortcut to prevent the usage of Fully Qualified Name for classes
+- Explicit import: Importing a specific class, such as ```java.util.ArrayList```
+- Implicit import: Importing all classes in a package, such as ```java.util.*```
