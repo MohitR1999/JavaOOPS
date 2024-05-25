@@ -1,0 +1,4 @@
+- If a class member is declared as public, the member can be accessed from anywhere, be it inside the class, outside the class, inside the package or outside the package. However, the corresponding class should be declared as public if it is going to be accessed from outside
+- If we are not putting any modifier, then it is considered as ```default``` and it is accessible within the package only
+- If we specify a member as private, then it is accessible within the same class only
+- Variables are recommended to be kept as ```private```, and methods are recommended to be kept as ```public```

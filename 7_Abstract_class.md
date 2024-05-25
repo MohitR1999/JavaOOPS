@@ -1,0 +1,4 @@
+- A partially implemented class can be termed as an abstract class. By partially implemented, we mean that it can have abstract methods or methods with dummy implementation
+- It is not possible to create objects for abstract class
+- If a class contains at least one abstract method, then the class needs to be declared as abstract
+- Even if a class doesn't have any abstract methods, it can be declared as abstract
