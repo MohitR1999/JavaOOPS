@@ -1,0 +1,7 @@
+- Interface can be defined by using keyword ```interface```
+- Interface only defines a blueprint and doesn't talk about implementation
+- Every method present in an interface is public and abstract by default
+- A class can 'implement' an interface by using ```implements``` keyword
+- While implementing a method from an interface, we cannot reduce the scope of access modifier
+- While implementing an interface, for each and every abstract method we need to provide the implementation
+- If we can't provide full implementation of all methods, we need to declare the class as abstract

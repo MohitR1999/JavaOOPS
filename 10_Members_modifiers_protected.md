@@ -1,0 +1,2 @@
+- If a variable or method is declared as ```protected```, then we can access the same member anywhere within the same package, but outside the package only in the child classes
+- For accessing the parent class ```protected``` method, it is mandatory to use child class reference outside the package

@@ -1,0 +1,3 @@
+- Data hiding means making the data inside a class inaccessible to the outside members. For accessing the data, the public getter methods can be used which can perform the necessary validation
+- Data hiding is essential for security
+- Declaring a data member as private we can have data hiding
